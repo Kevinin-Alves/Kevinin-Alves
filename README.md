@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Kevinin-Alves&theme=merko&show_icons=true&hide=prs,issues,contribs" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kevinin-Alves&locale=pt-br&layout=compact&langs_count=5&theme=merko&custom_title=Linguagens%20usadas" height="150"/>
 </div>
-###
+
 
 <div align="left">
   <a href="https://github.com/Kevinin-Alves">
@@ -49,16 +49,4 @@
 
 </div>
 
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-          srcset="https://raw.githubusercontent.com/Kevinin-Alves/Kevinin-Alves/main/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)"
-          srcset="https://raw.githubusercontent.com/Kevinin-Alves/Kevinin-Alves/main/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph"
-       src="https://raw.githubusercontent.com/Kevinin-Alves/Kevinin-Alves/main/output/pacman-contribution-graph.svg">
-</picture>
-
-
-###
 
