@@ -5,7 +5,7 @@
 ### Olá! 👋 Eu sou o Kevinin
 
 - 🔭 Atualmente trabalhando com administração de redes, segurança de TI e monitoramento em empresas do setor financeiro.
-- 📫 Como me encontrar: kevinin.alves@outlook.com.br | LinkedIn: [meu perfil](https://www.linkedin.com/in/kevinin-alves)
+- 📫 Como me encontrar: kevinin.alves@outlook.com.br | LinkedIn: [meu perfil](https://www.linkedin.com/in/kevinin-souza/)
 - 😄 Pronomes: Ele/Dele
 
 <h2 align="left"></h2>
