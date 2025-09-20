@@ -11,7 +11,7 @@
 <h2 align="left"></h2>
 ###
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevinin-Alves&theme=merko&show_icons=true&hide=prs,issues,contribs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kevinin-Alves&theme=merko&show_icons=true&hide=prs,issues,contribs" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kevinin-Alves&locale=pt-br&layout=compact&langs_count=5&theme=merko&custom_title=Linguagens%20usadas" height="150"/>
 </div>
 ###
