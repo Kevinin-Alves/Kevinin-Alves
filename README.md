@@ -9,12 +9,10 @@
 - 😄 Pronomes: Ele/Dele
 
 <h2 align="left"></h2>
-###
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Kevinin-Alves&theme=merko&show_icons=true&hide=prs,issues,contribs" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kevinin-Alves&locale=pt-br&layout=compact&langs_count=5&theme=merko&custom_title=Linguagens%20usadas" height="150"/>
 </div>
-
 
 <div align="left">
   <a href="https://github.com/Kevinin-Alves">
@@ -32,21 +30,16 @@
 </div>
     
 <div align="left">
-
   <a href="mailto:kevinin.alvez@gmail.com">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-
   <a href="mailto:kevinin.alves@outlook.com">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="outlook logo" />
   </a>
-
   <a href="https://www.linkedin.com/in/kevinin-souza/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-  
 </div>
 
-</div>
 
 
